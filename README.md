@@ -19,7 +19,7 @@ Business contacts, hours, products, package prices, services and gallery entries
 - No test kit, feed, net or Matemba standalone photographs were supplied. These items use a quiet brand graphic instead of unrelated photography.
 - Instagram links to the supplied handle. Facebook opens a named Facebook search because an exact page URL was not supplied. The map link opens an address search, not an invented map pin.
 - The enquiry form validates fields and prepares a WhatsApp message for the customer to review and send. It does not claim to submit to an email inbox or save enquiries.
-- No public domain is configured yet. Set canonical URL, robots and sitemap once the final hostname is chosen.
+- Production hostname: https://kariba-fisheries.vercel.app. Canonical metadata, robots and sitemap use this hostname. Update these if a custom domain is added.
 
 ## Routes
 
